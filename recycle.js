@@ -386,11 +386,13 @@ jQuery(document).ready(function() {
     });
 
     var actorY = point.y;
-    point = new Point(700, 25);
+    point = new Point(700, 100);
 
     var shows = _.map(showNames, function (name) {
         var show = rel.createShow(name, point.clone());
-        point.y += 46;
+        // Cobi: this is the value you change to modify the 
+        // spacing between the right hand side data column.
+        point.y += 120;
         return show;
     });
     /*
