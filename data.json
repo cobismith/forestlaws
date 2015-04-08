@@ -1,12 +1,4 @@
 var DATA = {
-        "Argentina": [
-        "CITES",
-        "FCPF",
-        "UNREDD",
-        "CBD",
-        "UNFCCC",
-        "UNDRIP"
-    ],
     "Bangladesh": [
         "CITES",
         "UNREDD",
@@ -165,6 +157,323 @@ var DATA = {
         "UNREDD",
         "CITES",
         "CBD",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Zimbabwe": [
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Argentina": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "ILO196",
+        "UNDRIP"
+    ],
+    "Bolivia": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "ILO196",
+        "UNDRIP"
+    ],
+    "Bhutan": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "ILO196"
+    ],
+    "Cambodia": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "ILO196",
+    ],
+    "Congo DR": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "Nagoya Protocol",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Congo R": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Costa Rica": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "UNDRIP",
+        "ILO196"
+    ],
+    "Côte d'Ivoire": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "Nagoya Protocol",
+        "UNFCCC",
+    ],
+    "Ecuador": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "UNDRIP",
+        "ILO196"
+    ],
+    "Ethiopia": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol"
+    ],
+    "Fiji": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "ILO196"
+    ],
+    "Gabon": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP"
+    ],
+    "Ghana": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Guatemala": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP",
+        "ILO196"
+    ],
+    "Guyana": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP"
+    ],
+    "Honduras": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP",
+        "ILO196"
+    ],
+    "Indonesia": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP"
+    ],
+    "Kenya": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol"
+    ],
+    "Laos": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP"
+    ],
+    "Liberia": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Madagascar": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP"
+    ],
+    "Mexico": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP"
+    ],
+    "Mozambique": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP"
+    ],
+    "Nepal": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP"
+    ],
+    "Nigeria": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+    ],
+    "Pakistan": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+    ],
+    "Panama": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP"
+    ],
+    "Papua New Guinea": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+    ],
+    "Paraguay": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "ILO196"
+        "UNDRIP"
+    ],
+    "Peru": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "Nagoya Protocol",
+        "UNFCCC",
+        "ILO196"
+        "UNDRIP"
+    ],
+    "Sudan": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "Nagoya Protocol",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Suriname": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Tanzania": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Togo": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Uganda": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "Nagoya Protocol",
+        "UNFCCC",
+        "UNDRIP"
+    ],
+    "Vietnam": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "Nagoya Protocol",
         "UNFCCC",
         "UNDRIP"
     ]
