@@ -81,7 +81,7 @@ var DATA = {
         "UNREDD",
         "CITES",
         "CBD",
-        "UNFCCC",
+        "UNFCCC"
     ],
     "Myanmar": [
         "UNREDD",
@@ -110,18 +110,18 @@ var DATA = {
         "UNREDD",
         "CITES",
         "CBD",
-        "UNFCCC",
+        "UNFCCC"
     ],
     "South Sudan": [
         "UNREDD",
         "CITES",
         "CBD",
-        "UNFCCC",
+        "UNFCCC"
     ],
     "Sri Lanka": [
         "UNREDD",
         "CBD",
-        "UNFCCC",
+        "UNFCCC"
     ],
     "Thailand": [
         "FCPF",
@@ -199,7 +199,7 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
-        "ILO196",
+        "ILO196"
     ],
     "Congo DR": [
         "FCPF",
@@ -233,7 +233,7 @@ var DATA = {
         "CITES",
         "CBD",
         "Nagoya Protocol",
-        "UNFCCC",
+        "UNFCCC"
     ],
     "Ecuador": [
         "FCPF",
@@ -382,14 +382,14 @@ var DATA = {
         "UNREDD",
         "CITES",
         "CBD",
-        "UNFCCC",
+        "UNFCCC"
     ],
     "Pakistan": [
         "FCPF",
         "UNREDD",
         "CITES",
         "CBD",
-        "UNFCCC",
+        "UNFCCC"
     ],
     "Panama": [
         "FCPF",
@@ -405,7 +405,7 @@ var DATA = {
         "UNREDD",
         "CITES",
         "CBD",
-        "UNFCCC",
+        "UNFCCC"
     ],
     "Paraguay": [
         "FCPF",
