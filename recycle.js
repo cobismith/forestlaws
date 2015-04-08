@@ -10,7 +10,7 @@ var rel = {
     * our drawing.
     */
     hitOptions: {
-        fill: true,he
+        fill: true,
         tolerance: 5
     },
 
