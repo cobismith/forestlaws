@@ -1,7 +1,7 @@
 International Forestry Law Infographic
 ==================================================
 
-This infographic shows which countries are signatory to which international agreements and laws related to forestry governance. This is a work in progress. You can view it here: http://cobismith.github.io/hborecycling/
+This infographic shows which countries are signatory to which international agreements and laws related to forestry governance. This is a work in progress. You can view it here: http://cobismith.github.io/forestlaws/
 
 It's adapted from code made for the [HBO recycling project](https://github.com/zgrossbart/hborecycling), which is fun. 
 
