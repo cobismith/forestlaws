@@ -10,7 +10,7 @@ var rel = {
     * our drawing.
     */
     hitOptions: {
-        fill: true,
+        fill: true,he
         tolerance: 5
     },
 
@@ -407,7 +407,7 @@ jQuery(document).ready(function() {
     /*
     * Then we set the height of our view
     */
-    view.viewSize = [1000, actorY + 50];
+    view.viewSize = [1000, actorY + 100];
 
     /*
     * The last step is to draw each actor which draws the shows
