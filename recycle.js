@@ -329,7 +329,7 @@ function onMouseUp(event) {
 
 
 jQuery(document).ready(function() {
-    var point = new Point(25, 25);
+    var point = new Point(250, 25);
     
     /*
     * Here's where we initialize our data.  We keep the mapping
