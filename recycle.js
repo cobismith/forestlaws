@@ -329,7 +329,7 @@ function onMouseUp(event) {
 
 
 jQuery(document).ready(function() {
-    var point = new Point(250, 25);
+    var point = new Point(25, 25);
     
     /*
     * Here's where we initialize our data.  We keep the mapping
@@ -392,7 +392,7 @@ jQuery(document).ready(function() {
         var show = rel.createShow(name, point.clone());
         // Cobi: this is the value you change to modify the 
         // spacing between the right hand side data column.
-        point.y += 190;
+        point.y += 180;
         return show;
     });
     /*
