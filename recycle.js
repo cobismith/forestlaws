@@ -196,7 +196,7 @@ var rel = {
                 this.dot.rel = this;
 
                 this.text = new PointText(point + (isActor ? [-20, 5] : [35, 5]));
-                var size = isActor ? new Size(-100, -10) : new Size(150, -10);
+                var size = isActor ? new Size(-150, -10) : new Size(200, -10);
                 var p = this.text.point + [isActor ? 30 : -40, 0];
                 this.rect = new Path.Rectangle(p, size);
                 this.rect.fillColor = new RGBColor(0, 0, 0, 0);
@@ -205,7 +205,7 @@ var rel = {
 
                 this.text.content = name;
                 this.text.characterStyle =  {
-                    fontSize: isActor ? 10 : 14,
+                    fontSize: isActor ? 8 : 12,
                     fillColor: rel.defaultTextColor,
                     font: rel.font
                 };
