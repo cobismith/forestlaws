@@ -392,7 +392,7 @@ jQuery(document).ready(function() {
         var show = rel.createShow(name, point.clone());
         // Cobi: this is the value you change to modify the 
         // spacing between the right hand side data column.
-        point.y += 110;
+        point.y += 150;
         return show;
     });
     /*
