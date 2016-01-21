@@ -18,10 +18,10 @@ var rel = {
 
     defaultColor: 'lightgray',
     defaultTextColor: 'black', 
-    actorHighlight: '#66b95f',
-    showHighlight: '#f57e20',
-    actorSelect: '#bb2527',
-    showSelect: '#30449d',
+    actorHighlight: '#black',
+    showHighlight: '#black',
+    actorSelect: '#black',
+    showSelect: '#black',
     selectedActors: [],
     selectedShows: [],
     font: 'ff-basic-gothic-web-pro, Verdana, sans',
@@ -386,7 +386,7 @@ jQuery(document).ready(function() {
     });
 
     var actorY = point.y;
-    point = new Point(700, 130);
+    point = new Point(700, 100);
 
     var shows = _.map(showNames, function (name) {
         var show = rel.createShow(name, point.clone());
