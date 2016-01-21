@@ -190,13 +190,13 @@ var rel = {
                 }
                 if (isActor)
                     this.paths = this.createConnections();
-                this.dot = new Path.Circle(point, isActor ? this.linked.length * 3 : this.linked.length + 3);
+                this.dot = new Path.Circle(point, isActor ? this.linked.length * 2 : this.linked.length + 2);
                 this.dot.fillColor = rel.defaultColor;
                 this.dot.strokeWidth = 0;
                 this.dot.rel = this;
 
                 this.text = new PointText(point + (isActor ? [-20, 5] : [35, 5]));
-                var size = isActor ? new Size(-150, -10) : new Size(200, -10);
+                var size = isActor ? new Size(-100, -10) : new Size(150, -10);
                 var p = this.text.point + [isActor ? 30 : -40, 0];
                 this.rect = new Path.Rectangle(p, size);
                 this.rect.fillColor = new RGBColor(0, 0, 0, 0);
