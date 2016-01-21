@@ -381,7 +381,7 @@ jQuery(document).ready(function() {
     */
     var actors = _.map(actorNames, function (name) {
         var actor = rel.createActor(name, point.clone());
-        point.y += 20;
+        point.y += 40;
         return actor;
     });
 
