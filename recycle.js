@@ -386,7 +386,7 @@ jQuery(document).ready(function() {
     });
 
     var actorY = point.y;
-    point = new Point(700, 100);
+    point = new Point(600, 100);
 
     var shows = _.map(showNames, function (name) {
         var show = rel.createShow(name, point.clone());
@@ -409,7 +409,7 @@ jQuery(document).ready(function() {
     /*
     * Then we set the height of our view
     */
-    view.viewSize = [1000, actorY + 100];
+    view.viewSize = [1000, actorY + 50];
 
     /*
     * The last step is to draw each actor which draws the shows
