@@ -386,7 +386,7 @@ jQuery(document).ready(function() {
     });
 
     var actorY = point.y;
-    point = new Point(700, 500);
+    point = new Point(700, 130);
 
     var shows = _.map(showNames, function (name) {
         var show = rel.createShow(name, point.clone());
