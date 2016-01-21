@@ -190,7 +190,7 @@ var rel = {
                 }
                 if (isActor)
                     this.paths = this.createConnections();
-                this.dot = new Path.Circle(point, isActor ? this.linked.length * 2 : this.linked.length + 2);
+                this.dot = new Path.Circle(point, isActor ? this.linked.length * 3 : this.linked.length + 3);
                 this.dot.fillColor = rel.defaultColor;
                 this.dot.strokeWidth = 0;
                 this.dot.rel = this;
