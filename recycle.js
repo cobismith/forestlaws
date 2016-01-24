@@ -1,3 +1,6 @@
+ //Note for international law mod: actor = law, while show = country (somewhat counter-intuitively)/
+
+
 /**
  * Our rel closure contains functions to show the relationships
  * between actors and the shows they're in.  It also handles the
