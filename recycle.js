@@ -195,7 +195,9 @@ var rel = {
                 this.dot.strokeWidth = 0;
                 this.dot.rel = this;
 
-                this.text = new PointText(point + (isActor ? [-20, 5] : [35, 5]));
+                // Cobi: the last brackets here are the positioning of the text on the right column
+                // [x, y] 
+                this.text = new PointText(point + (isActor ? [-20, 5] : [75, 5]));
                 var size = isActor ? new Size(-150, -10) : new Size(200, -10);
                 var p = this.text.point + [isActor ? 30 : -40, 0];
                 this.rect = new Path.Rectangle(p, size);
@@ -381,18 +383,19 @@ jQuery(document).ready(function() {
     */
     var actors = _.map(actorNames, function (name) {
         var actor = rel.createActor(name, point.clone());
-        point.y += 20;
+        // Cobi: this is where you change the vertical spacing of the left column
+        point.y += 18;
         return actor;
     });
 
     var actorY = point.y;
-    point = new Point(600, 100);
+    point = new Point(700, 100);
 
     var shows = _.map(showNames, function (name) {
         var show = rel.createShow(name, point.clone());
         // Cobi: this is the value you change to modify the 
         // spacing between the right hand side data column.
-        point.y += 110;
+        point.y += 133;
         return show;
     });
     /*
