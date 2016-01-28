@@ -464,7 +464,7 @@ var DATA = {
         "Nagoya Protocol",
         "UNFCCC",
         "UNDRIP"
-    ]
+    ],
     "Zambia": [
         "UNREDD",
         "CITES",
@@ -478,5 +478,5 @@ var DATA = {
         "CBD",
         "UNFCCC",
         "UNDRIP"
-    ],	
+    ]	
 };
