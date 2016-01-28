@@ -22,6 +22,14 @@ var DATA = {
         "UNFCCC",
         "UNDRIP"
     ],
+   "Benin": [
+        "CITES",
+  	"UNREDD",
+        "CBD",
+        "UNFCCC",
+        "Nagoya Protocol",
+        "UNDRIP"
+    ],
     "Bhutan": [
         "FCPF",
         "UNREDD",
@@ -54,12 +62,30 @@ var DATA = {
         "CBD",
         "UNFCCC",
         "ILO196"
-    ],  
+    ], 
+    "Central African Republic": [
+        "FCPF",    
+        "CITES",
+        "UNREDD",
+        "CBD",
+        "UNFCCC",
+        "ILO196",
+        "UNDRIP"
+    ], 
     "Chad": [
         "CITES",
         "UNREDD",
         "CBD",
         "UNFCCC"
+    ],
+    "Chile": [
+        "FCPF",
+        "UNREDD",
+        "CITES",
+        "CBD",
+        "UNFCCC",
+        "ILO196",
+        "UNDRIP"
     ],
     "Congo DR": [
         "FCPF",
@@ -76,6 +102,7 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
+        "Nagoya Protocol",
         "UNDRIP"
     ],
     "Costa Rica": [
@@ -98,6 +125,7 @@ var DATA = {
     "Dominican Republic": [
         "CITES",
         "FCPF",
+        "UNREDD",
         "Nagoya Protocol",
         "CBD",
         "UNFCCC",
@@ -119,6 +147,11 @@ var DATA = {
         "UNFCCC",
         "UNDRIP"
     ],
+    "Equatorial Guinea": [
+        "CITES",
+        "CBD",
+        "UNFCCC"
+    ],
     "Ethiopia": [
         "FCPF",
         "UNREDD",
@@ -126,11 +159,6 @@ var DATA = {
         "CBD",
         "UNFCCC",
         "Nagoya Protocol"
-    ],
-    "Equatorial Guinea": [
-        "CITES",
-        "CBD",
-        "UNFCCC"
     ],
     "Fiji": [
         "FCPF",
@@ -168,6 +196,14 @@ var DATA = {
         "UNDRIP",
         "ILO196"
     ],
+   "Guinea Bissau": [
+        "UNREDD",
+        "CITES",
+        "Nagoya Protocol",
+        "FCPF",
+        "CBD",
+        "UNFCCC"
+    ],
     "Guyana": [
         "FCPF",
         "UNREDD",
@@ -176,14 +212,6 @@ var DATA = {
         "UNFCCC",
         "Nagoya Protocol",
         "UNDRIP"
-    ],
-    "Guinea Bissau": [
-        "UNREDD",
-        "CITES",
-        "Nagoya Protocol",
-        "FCPF",
-        "CBD",
-        "UNFCCC"
     ],
     "Honduras": [
         "FCPF",
@@ -227,6 +255,7 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
+        "Nagoya Protocol",
         "UNDRIP"
     ],
     "Madagascar": [
@@ -260,7 +289,8 @@ var DATA = {
         "CBD",
         "UNFCCC",
         "Nagoya Protocol",
-        "UNDRIP"
+        "UNDRIP",
+        "ILO196"
     ],
     "Mongolia": [
         "UNREDD",
@@ -299,7 +329,6 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
-        "Nagoya Protocol",
         "UNDRIP"
     ],
     "Nicaragua": [
@@ -321,6 +350,7 @@ var DATA = {
         "FCPF",
         "UNREDD",
         "CITES",
+        "Nagoya Protocol",
         "CBD",
         "UNFCCC"
     ],
@@ -363,6 +393,7 @@ var DATA = {
         "UNREDD",
         "CITES",
         "CBD",
+        "Nagoya Protocol",
         "UNFCCC",
         "UNDRIP"
     ],
@@ -374,14 +405,14 @@ var DATA = {
     ],
     "South Sudan": [
         "UNREDD",
-        "CITES",
         "CBD",
         "UNFCCC"
     ],
     "Sri Lanka": [
         "UNREDD",
         "CBD",
-        "UNFCCC"
+        "UNFCCC,"
+        "UNDRIP"
     ],
     "Sudan": [
         "FCPF",
@@ -414,7 +445,6 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
-        "UNDRIP"
     ],
     "Thailand": [
         "FCPF",
@@ -437,8 +467,7 @@ var DATA = {
         "CITES",
         "CBD",
         "Nagoya Protocol",
-        "UNFCCC",
-        "UNDRIP"
+        "UNFCCC"
     ],
     "Uruguay": [
         "FCPF",
@@ -453,8 +482,7 @@ var DATA = {
         "CITES",
         "CBD",
         "Nagoya Protocol",
-        "UNFCCC",
-        "UNDRIP"
+        "UNFCCC"
     ],
     "Vietnam": [
         "FCPF",
