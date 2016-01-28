@@ -411,7 +411,7 @@ var DATA = {
     "Sri Lanka": [
         "UNREDD",
         "CBD",
-        "UNFCCC,"
+        "UNFCCC",
         "UNDRIP"
     ],
     "Sudan": [
@@ -444,7 +444,7 @@ var DATA = {
         "UNREDD",
         "CITES",
         "CBD",
-        "UNFCCC",
+        "UNFCCC"
     ],
     "Thailand": [
         "FCPF",
