@@ -6,7 +6,7 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
-        "ILO196",
+        "ILO169",
         "UNDRIP"
     ],
     "Bangladesh": [
@@ -36,7 +36,7 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
-        "ILO196"
+        "ILO169"
     ],
     "Bolivia": [
         "FCPF",
@@ -44,7 +44,7 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
-        "ILO196",
+        "ILO169",
         "UNDRIP"
     ],
     "Burkina Faso": [
@@ -61,7 +61,7 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
-        "ILO196"
+        "ILO169"
     ], 
     "Central African Republic": [
         "FCPF",    
@@ -69,7 +69,7 @@ var DATA = {
         "UNREDD",
         "CBD",
         "UNFCCC",
-        "ILO196",
+        "ILO169",
         "UNDRIP"
     ], 
     "Chad": [
@@ -84,7 +84,7 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
-        "ILO196",
+        "ILO169",
         "UNDRIP"
     ],
     "Congo DR": [
@@ -112,7 +112,7 @@ var DATA = {
         "CBD",
         "UNFCCC",
         "UNDRIP",
-        "ILO196"
+        "ILO169"
     ],
     "Côte d'Ivoire": [
         "FCPF",
@@ -138,7 +138,7 @@ var DATA = {
         "CBD",
         "UNFCCC",
         "UNDRIP",
-        "ILO196"
+        "ILO169"
     ],
     "El Salvador": [
         "CITES",
@@ -167,7 +167,7 @@ var DATA = {
         "CBD",
         "UNFCCC",
         "Nagoya Protocol",
-        "ILO196"
+        "ILO169"
     ],
     "Gabon": [
         "FCPF",
@@ -194,7 +194,7 @@ var DATA = {
         "UNFCCC",
         "Nagoya Protocol",
         "UNDRIP",
-        "ILO196"
+        "ILO169"
     ],
    "Guinea Bissau": [
         "UNREDD",
@@ -221,7 +221,7 @@ var DATA = {
         "UNFCCC",
         "Nagoya Protocol",
         "UNDRIP",
-        "ILO196"
+        "ILO169"
     ],
     "Indonesia": [
         "FCPF",
@@ -290,7 +290,7 @@ var DATA = {
         "UNFCCC",
         "Nagoya Protocol",
         "UNDRIP",
-        "ILO196"
+        "ILO169"
     ],
     "Mongolia": [
         "UNREDD",
@@ -336,7 +336,7 @@ var DATA = {
         "FCPF",
         "CBD",
         "UNFCCC",
-        "ILO196",
+        "ILO169",
         "UNDRIP"
     ],
     "Nigeria": [
@@ -376,7 +376,7 @@ var DATA = {
         "CITES",
         "CBD",
         "UNFCCC",
-        "ILO196",
+        "ILO169",
         "UNDRIP"
     ],
     "Peru": [
@@ -386,7 +386,7 @@ var DATA = {
         "CBD",
         "Nagoya Protocol",
         "UNFCCC",
-        "ILO196",
+        "ILO169",
         "UNDRIP"
     ],
     "Philippines": [
@@ -508,3 +508,4 @@ var DATA = {
         "UNDRIP"
     ]	
 };
+
